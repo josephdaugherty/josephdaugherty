@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on a portfolio website and a decentralized blockchain-based voting app<br>🤔 Interested in full-stack web dev, aviation, history, and Lego<br>📍 Based in West Lafayette, IN (Boiler Up! 🚂)<br>🏡 From Louisville, KY<br>📖 Currently Reading: Tokyo Vice<br>🧐 Fun Fact: Pablo Picasso's full name is:  Pablo Diego José Francisco de Paula Juan Nepomuceno Crispín Cipriano de la Santísima Trinidad María de los Remedios Alarcón y Herrera Ruiz Picasso
+💻 I'm currently working on a portfolio website<br>🤔 Interested in full-stack web dev, aviation, history, and Lego<br>📍 Based in West Lafayette, IN (Boiler Up! 🚂)<br>🏡 From Louisville, KY<br>📖 Currently Reading: Tokyo Vice<br>🧐 Fun Fact: Pablo Picasso's full name is:  Pablo Diego José Francisco de Paula Juan Nepomuceno Crispín Cipriano de la Santísima Trinidad María de los Remedios Alarcón y Herrera Ruiz Picasso
 
 
 ## 🌐 Socials:
